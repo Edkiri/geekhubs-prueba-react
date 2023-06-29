@@ -1,0 +1,17 @@
+.stats-table {
+  border: 1px solid black;
+  padding: 1rem;
+  border-radius: 10px;
+  gap: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  margin-top: 1rem;
+}
+.stats-table h2 {
+  text-align: center;
+}
+.stats-table .row-table {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}

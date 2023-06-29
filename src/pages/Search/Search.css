@@ -1,0 +1,13 @@
+.search-page-container form {
+  margin-bottom: 2rem;
+}
+.search-page-container input {
+  padding: 0.2rem 1rem;
+  font-size: 1.2rem;
+  border-radius: 4px;
+}
+.search-page-container button {
+  height: 100%;
+  display: inline-flex;
+  align-items: center;
+}

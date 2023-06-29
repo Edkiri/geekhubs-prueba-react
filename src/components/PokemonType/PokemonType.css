@@ -1,0 +1,12 @@
+.types-container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  gap: 0.2rem;
+  margin: 0.3rem 0rem;
+}
+.type-container {
+  display: flex;
+  color: grey;
+  gap: 0.2rem;
+}
